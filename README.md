@@ -4,10 +4,9 @@
 <br>
 <div align = "center">
 Revy451 - SKKU (Computer Engineering)
-<br>
 	
 </div>
-
+<br>
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />

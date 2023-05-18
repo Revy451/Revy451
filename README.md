@@ -3,6 +3,9 @@
 </div>
 <div align = "center">
 Revy451 - SKKU (Computer Engineering)
+🎓 College Student
+🎮 Play & Develop Games  
+💻 Still Learning...
 	
 </div>
 <br>

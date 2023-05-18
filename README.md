@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Revy&fontSize=90" />
+<div align = "center">
 Revy451 - SKKU (Computer Engineering)
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=white" />

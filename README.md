@@ -4,9 +4,9 @@
 <div align = "center">
 Revy451 - SKKU (Computer Engineering)
 <br><br>
-🎓 College Student
-🎮 Play & Develop Games  
-💻 Still Learning...
+🎓 College Student 
+🎮 Play & Develop Games   
+💻 Still Learning... 
 	
 </div>
 <br>

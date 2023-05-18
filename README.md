@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Revy&fontSize=90" />
 <div align = "center">
 Revy451 - SKKU (Computer Engineering)
+<br>
+	
 </div>
 
 <div align="center">

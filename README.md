@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Revy&fontSize=90" />
+Revy451 - SKKU (Computer Engineering)
+
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
@@ -6,11 +8,7 @@
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 </div>
-- 👋 Hi, I’m @Revy451
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 
